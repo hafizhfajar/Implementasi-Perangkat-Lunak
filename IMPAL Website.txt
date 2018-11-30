@@ -1,0 +1,6 @@
+Cara Menggunakan Tubes IMPAL Web :
+
+1. Download dan Install XAMPP
+2. Nyalakan Apache dan MySQL pada XAMPP
+3. Simpan folder pada C:\Users\NamaPengguna\Documents\GitHub\Implementasi-Perangkat-Lunak
+4. Buka file di Chrome dengan cara localhost/impal/index.php 
